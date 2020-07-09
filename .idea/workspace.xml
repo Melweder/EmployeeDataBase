@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53df2893-d158-41d5-aaab-cb2fac5a410b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Baza_pracownikow_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_44.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baza_pracownikow.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Baza_pracownikow_jar/Baza_pracownikow.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baza_pracownikow/META-INF/Baza_pracownikow.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EmployeeDataBase/AdvancedSearching.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EmployeeDataBase/AdvancedSorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EmployeeDataBase/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EmployeeDataBase/ListOfEmployees.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Enums/EmployeeDataTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Enums/InputDataBoundaries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exceptions/DataLengthMismatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exceptions/IllegalInputFormatException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/AppPanels/BackgroundPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/AppPanels/LayoutRefresher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/AppPanels/LoginPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/AppPanels/MainFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/AppPanels/MenuPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/AppPanels/SubMenuPanels/DataBasePanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/AppPanels/SubMenuPanels/InfoPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/AppPanels/SubMenuPanels/LoadFromFilePanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/AppPanels/SubMenuPanels/LoadFromServerPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/AppPanels/SubMenuPanels/LoadSavePanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/AppPanels/SubMenuPanels/OperationStatus/FailurePanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/AppPanels/SubMenuPanels/OperationStatus/SuccessPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/AppPanels/SubMenuPanels/ProgressCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/AppPanels/SubMenuPanels/SaveToFilePanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/AppPanels/SubMenuPanels/SendToServerPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/AppPanels/SubMenuPanels/ServerPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/AppPanels/SubMenuPanels/SubDataBasePanels/AddEmployeeFirstPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/AppPanels/SubMenuPanels/SubDataBasePanels/AddEmployeeSecondPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/AppPanels/SubMenuPanels/SubDataBasePanels/FindEmployeePanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/AppPanels/SubMenuPanels/SubDataBasePanels/ShowDataBasePanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/Images/ImageContainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GUI/Images/ImageNames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InputWorkers/InputDataFormat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InputWorkers/InputDataValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeeDataBase/AdvancedSearching.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeeDataBase/AdvancedSorting$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeeDataBase/AdvancedSorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeeDataBase/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmployeeDataBase/ListOfEmployees.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Enums/EmployeeDataTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Enums/InputDataBoundaries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exceptions/DataLengthMismatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exceptions/IllegalInputFormatException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/BackgroundPanel$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/BackgroundPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/LayoutRefresher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/LoginPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/MainFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/MenuPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/SubMenuPanels/DataBasePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/SubMenuPanels/InfoPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/SubMenuPanels/LoadFromFilePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/SubMenuPanels/LoadFromServerPanel$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/SubMenuPanels/LoadFromServerPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/SubMenuPanels/LoadSavePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/SubMenuPanels/OperationStatus/FailurePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/SubMenuPanels/OperationStatus/SuccessPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/SubMenuPanels/ProgressCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/SubMenuPanels/SaveToFilePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/SubMenuPanels/SendToServerPanel$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/SubMenuPanels/SendToServerPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/SubMenuPanels/ServerPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/SubMenuPanels/SubDataBasePanels/AddEmployeeFirstPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/SubMenuPanels/SubDataBasePanels/AddEmployeeSecondPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/SubMenuPanels/SubDataBasePanels/FindEmployeePanel$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/SubMenuPanels/SubDataBasePanels/FindEmployeePanel$CustomTableRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/SubMenuPanels/SubDataBasePanels/FindEmployeePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/SubMenuPanels/SubDataBasePanels/ShowDataBasePanel$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/AppPanels/SubMenuPanels/SubDataBasePanels/ShowDataBasePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/Images/ImageContainer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/Images/ImageContainer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUI/Images/ImageNames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InputWorkers/InputDataFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InputWorkers/InputDataValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Baza_pracownikow.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eRGef6k6ZW5Qm4XYg4MpWrcPD2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Application project" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53df2893-d158-41d5-aaab-cb2fac5a410b" name="Default Changelist" comment="" />
+      <created>1594277088573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594277088573</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1594277159987">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594277159987" />
+  </component>
+</project>
